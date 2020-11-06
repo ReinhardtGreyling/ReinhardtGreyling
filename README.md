@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> Hey there 👋 I'm Reinhardt.</h2>
 
-<!--
-**ReinhardtGreyling/ReinhardtGreyling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ReinhardtGreyling" alt="ReinhardtGreyling" /> </p>
 
-Here are some ideas to get you started:
+<img align="right" src="https://github.com/ReinhardtGreyling/ReinhardtGreyling/blob/main/Developer.gif?raw=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a BCom Management Science Student, currently in final year at Stellenbosch University.
+
+- 🌱 Currently learning Javascript.
+- 🤔 Building React Projects at the moment. 
+- 🧠 Starting to scrape the surface of machine learning
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubal-agrawal/)](https://www.linkedin.com/in/#######/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reinhardt.greyling@gmail.com)](mailto:reinhardt.greyling@gmail.com)
+
+
+* From [ReinhardtGreyling](https://github.com/ReinhardtGreyling)
