@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/ReinhardtGreyling/ReinhardtGreyling/blob/main/Developer.gif?raw=true"/>
 
-I am a BCom Management Science Student, currently in final year at Stellenbosch University.,
+I am a BCom Management Science Student, currently in final year at Stellenbosch University.
 
 - 🌱 I love working with Javascript.
 - 🤔 Building React Projects at the moment. 
