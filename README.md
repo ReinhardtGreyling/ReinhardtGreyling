@@ -8,7 +8,7 @@ I am a BCom Management Science Student, currently in final year at Stellenbosch 
 
 - 🌱 I love working with Javascript.
 - 🤔 Building React Projects at the moment.
-- 🧠 Starting to scrape the surface of machine learning...
+- 🧠 Starting to scrape the surface of machine learning....
 
 
 
